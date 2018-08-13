@@ -1,5 +1,5 @@
 # Ghost-Runner
-Flippy Knife Replica Source Project
+Flippy Ghost Runner Source Project
 All code is written entirely in C#.
 ###Software
 
