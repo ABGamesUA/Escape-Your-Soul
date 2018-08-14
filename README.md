@@ -1,4 +1,4 @@
-# Ghost-Runner
+# Escape-Your-Soul
 Flippy Ghost Runner Source Project
 All code is written entirely in C#.
 ###Software
